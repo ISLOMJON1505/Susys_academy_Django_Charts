@@ -1,0 +1,2 @@
+# Susys_academy_Django_Charts
+Susys_academy_Django_Charts
